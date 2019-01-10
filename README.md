@@ -1,1 +1,1 @@
-# cherry-playground
+# cherry-test-playground
